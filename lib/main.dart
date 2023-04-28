@@ -106,7 +106,7 @@ class _MyAppState extends State<MyApp> {
                               const Padding(
                                   padding: EdgeInsets.only(
                                       left: 75, bottom: 0, right: 0, top: 15),
-                                  child: Text("4 Task Remaining",
+                                  child: Text("4 Tasks Remaining",
                                       style: TextStyle(
                                           color: Colors.black,
                                           fontStyle: FontStyle.italic,
